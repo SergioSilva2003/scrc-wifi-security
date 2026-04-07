@@ -11,9 +11,9 @@ Este projeto tem como objetivo analisar as vulnerabilidades dos protocolos de se
 
 O projeto está dividido em duas vertentes principais:
 1. **Teórica:** Análise da evolução dos protocolos (WEP ao WPA3), vulnerabilidades inerentes (como o KRACK attack) e metodologias de pentesting.
-2. **Prática (Laboratório CP3):** Simulação de um ciberataque e posterior fortificação (hardening) da infraestrutura.
+2. **Prática (Laboratório):** Simulação de um ciberataque e posterior fortificação (hardening) da infraestrutura.
 
-## 🔬 Laboratório (CP3)
+## 🔬 Laboratório 
 
 ### Cenário 1: Teste de Penetração (WPA2-Personal)
 Demonstração das vulnerabilidades inerentes à utilização de uma Chave Pré-Partilhada (PSK).
