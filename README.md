@@ -29,7 +29,7 @@ Implementação de uma solução de nível corporativo para suprimir os riscos a
 
 ## 📂 Estrutura do Repositório
 * `/docs` - Contém o relatório final do projeto detalhando toda a investigação teórica.
-* `/lab_ataque` - (Opcional) Scripts ou outputs limpos da simulação do ataque.
+* `/lab_ataque` - Scripts ou outputs limpos da simulação do ataque.
 * `/lab_defesa` - Ficheiros de configuração do servidor FreeRADIUS utilizados no laboratório.
 
 ## ⚠️ Aviso Legal (Disclaimer)
